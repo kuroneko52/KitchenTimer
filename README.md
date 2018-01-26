@@ -1,25 +1,25 @@
 # KitchenTimer
 
-###English
+#English
 
 Beep Kitchen Timer
 
 This is KitchenTimer.
 
-###Tips
+#Tips
 
 Enter time to second.
 
 Sound a beep when timer count 0.
 
 
-###Japanese
+#Japanese
 
 Beep Kitchen Timer
 
 これはキッチンタイマーです。
 
-###Tips
+#Tips
 
 時間を秒単位で入力します。
 
